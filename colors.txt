@@ -1,8 +1,0 @@
-red
-pink
-green
-pink
-yellow
-###brown
-white
-purple
